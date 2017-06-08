@@ -1,2 +1,4 @@
-# PinkCraft
-PinkCraft is a texture pack for the sandbox game Minetest. It's Minetest buttt Pink!
+The Creator of PinkCraft is PinkCat.
+I hope you enjoy it.
+It took quite some time.
+:D :3
